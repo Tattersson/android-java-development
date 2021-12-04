@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-development</string>
+    <string name="action_settings">Asetukset</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Ensimmäinen osa</string>
+    <string name="second_fragment_label">Toinen osa</string>
+    <string name="next">Seuraava</string>
+    <string name="previous">Edellinen</string>
+    <string name="start">Aloita</string>
+    <string name="hello_first_fragment">Heippa, ensimmäinen osa</string>
+    <string name="hello_second_fragment">Heippa, toinen osa. Arg: %1$s</string>
+    <string name="message">Nappia painettu:</string>
+</resources>
